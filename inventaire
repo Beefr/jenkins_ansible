@@ -1,0 +1,8 @@
+# inventaire
+
+[debian]
+manageddebian1 
+
+[centos]
+managedcentos1
+
