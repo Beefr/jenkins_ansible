@@ -1,6 +1,0 @@
-- hosts: all
-  become: false
-  tasks:
-    - name: test
-      debug:
-        msg: Hello, it worked!
