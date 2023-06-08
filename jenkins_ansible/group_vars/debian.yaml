@@ -1,0 +1,6 @@
+# variables de groupe
+---
+
+
+installateur: apt
+apache: apache2
